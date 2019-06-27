@@ -1,2 +1,3 @@
-# portScan
-Port Scan and network mapping with python.
+# PortScan
+Port Scanning and network mapping with python.
+
